@@ -16,3 +16,6 @@ notebooks/decision_tree_analysis.ipynb
 ## Output
 - Trained model (.pkl)
 - Tree visualization image
+- Decision Tree model successfully trained on Wine dataset
+- Achieved good accuracy in classification
+
